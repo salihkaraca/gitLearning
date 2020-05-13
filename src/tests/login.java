@@ -8,5 +8,7 @@ public class login {
 
             System.out.println("int = "+i);
         }
+        
+          int sss;
     }
 }
